@@ -10,4 +10,4 @@ Kalman_filter_2d.py – X position and velocity
 
 Kalman_filter_4d.py – X&Y position and velocity
 
-Code modified to run with NumPy.
+Modified to run with NumPy.
